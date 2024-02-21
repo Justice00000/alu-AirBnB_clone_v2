@@ -1,15 +1,11 @@
 #!/usr/bin/python3
-
 """
 0-hello_route.py
 ~~~~~~~~~~~~~~~~
-
 This module implements a Flask web application with a single route that displays
 "Hello HBNB!" when accessed.
-
 Routes:
     /: Displays "Hello HBNB!"
-
 Usage:
     - Run this module directly to start the Flask web application:
         ```
