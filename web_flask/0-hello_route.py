@@ -15,7 +15,6 @@ Usage:
         python3 -m web_flask.0-hello_route
         ```
 """
-
 from flask import Flask
 
 app = Flask(__name__)
